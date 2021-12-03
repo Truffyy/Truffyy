@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Martin 👋
 
-<!--
-**sillver2000/sillver2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here is some things about me that you might like:**
+
+- 🔭 I’m currently working on front langages like Javascript for improving skills. 💪
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on very interesting project !
+- 💬 Ask me about anything you want (not back things please 🙈)
+- 📫 How to reach me :
+   - [Linkedin](https://www.linkedin.com/in/martin-trufley/)
+   - Email : pro.trufley@gmail.com
